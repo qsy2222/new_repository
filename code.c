@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 int main()
-
 {
-	printf("code test");
-	printf("code test");
-	
+
+	printf("改了");
 	return 0;
 }
