@@ -1,8 +1,6 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main()
-{
-
-	printf("改了");
+int main(){
+	printf("dsfv");
 	return 0;
 }
