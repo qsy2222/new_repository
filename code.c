@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main(){
+int main()
+
+{
 	printf("code test");
+	printf("code test");
+	
 	return 0;
 }
